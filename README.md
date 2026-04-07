@@ -1,3 +1,3 @@
 # HTMLCalculator
 HTML Calculator Build Using HTML / CSS / JS.
-Best UI desing using AI.
+Best UI Design according to user.
